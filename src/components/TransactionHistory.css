@@ -1,0 +1,32 @@
+thead tr {
+ background-color: var(--blue-color);
+ color: var(--white-text);
+}
+
+th {
+ padding: 15px 50px;
+}
+
+tr {
+ border: var(--border-style);
+ color: var(--grey-text);
+ background-color: var(--background-color);
+}
+
+td {
+ padding: 15px 50px;
+text-align: center;
+
+}
+
+.type {
+ text-transform: capitalize;
+}
+
+.even {
+ background-color: var(--background-color);
+}
+
+.odd {
+ background-color: var(--background-color-grey)
+}

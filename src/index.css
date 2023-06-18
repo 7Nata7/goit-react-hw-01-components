@@ -13,3 +13,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+:root {
+  --blue-color: rgb(0, 170, 255);
+  --red-color: rgba(235, 57, 77, 0.932);
+  --green-color: rgba(24, 184, 109, 0.918);
+  --pink-color: rgb(232, 128, 224);
+  --border-style: 2px solid #bdbdbd;
+  --background-color: #f5f5f5;
+  --background-color-grey: #e1dcdc;
+  --grey-text: #353131;
+  --white-text: #fff;
+}
+
+body {
+  background-color: rgba(200, 193, 193, 0.856);
+  padding: 0;
+  margin: 20px;
+ }
